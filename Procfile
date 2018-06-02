@@ -1,1 +1,1 @@
-web: java -jar CMS.jar
+web: java -jar application.jar
